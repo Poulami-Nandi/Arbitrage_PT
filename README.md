@@ -33,16 +33,14 @@ The strategy is fully automated and consists of:
 ---
 
 ## **📌 Project Structure**
+```bash
 /pairs-trading-strategy 
-│── /data # Data directory (if needed) 
-│── pairs_trading.py # Core implementation of strategy 
-│── cointegration_test.py # Cointegration testing module 
-│── backtest.py # Backtesting engine 
-│── utils.py # Helper functions 
+│── /data # Data directory
+│──  images/results/sample
 │── README.md # Project documentation 
 │── requirements.txt # Python dependencies 
-│── pairs_trading.ipynb # Jupyter Notebook with full implementation
-
+│── notebooks/pairs_trading.ipynb # Jupyter Notebook with full implementation
+```
 
 ---
 
