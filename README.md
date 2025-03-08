@@ -36,7 +36,7 @@ The strategy is fully automated and consists of:
 ```bash
 /pairs-trading-strategy 
 │── /data # Data directory
-│──  images/results/sample
+│── images/results/sample
 │── README.md # Project documentation 
 │── requirements.txt # Python dependencies 
 │── notebooks/pairs_trading.ipynb # Jupyter Notebook with full implementation
