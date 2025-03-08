@@ -140,14 +140,12 @@ strategy.evaluate_performance()
 ---
 
 ## **📬 Contact & Contributions**
-💡 Found this useful? Feel free to ⭐ star this repo and contribute!
-Author: **Poulami Nandi**
-For questions or contributions: 📧 nandi.poulami91@gmail.com
+💡 Found this useful? Feel free to ⭐ star this repo and contribute!  
+Author: **Poulami Nandi**  
+For questions or contributions: 📧 nandi.poulami91@gmail.com  
 📌 **LinkedIn:** [Poulami Nandi](https://www.linkedin.com/in/poulami-nandi-a8a12917b/)  
 
 ---
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
