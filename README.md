@@ -133,9 +133,9 @@ strategy.evaluate_performance()
 
 
 ## 📝 **References**
-- Pairs Trading: Gatev, Goetzmann, and Rouwenhorst (2006)
-- Cointegration Analysis: Engle & Granger (1987)
-- Statistical Arbitrage: Avellaneda & Lee (2010)
+- [Pairs Trading: Gatev, Goetzmann, and Rouwenhorst (2006)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=141615)
+- [Cointegration Analysis: Engle & Granger (1987)](https://www.jstor.org/stable/1913236)
+- [Statistical Arbitrage: Avellaneda & Lee (2010)](https://www.researchgate.net/publication/228376192_Statistical_Arbitrage_in_the_US_Equities_Market)
 
 ---
 
