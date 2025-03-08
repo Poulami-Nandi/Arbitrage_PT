@@ -150,7 +150,7 @@ For questions or contributions: 📧 nandi.poulami91@gmail.com
 
 ---
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
