@@ -116,13 +116,13 @@ strategy.evaluate_performance()
 
 ## **Visualization/Example output**
 - **Performance of the Pairs Trading Strategy Goldman Sachs and Morgan Stanly**
-![Stock Trends Visualization](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/Tesla_ARIMAX_GT.png)
-- **Performance of the Pairs Trading Strategy Goldman Sachs and Morgan Stanly**
-![Stock Trends Visualization](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/Tesla_ARIMAX_GT.png)
-- **Performance of the Pairs Trading Strategy Goldman Sachs and Morgan Stanly**
-![Stock Trends Visualization](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/Tesla_ARIMAX_GT.png)
-- **Performance of the Pairs Trading Strategy Goldman Sachs and Morgan Stanly**
-![Stock Trends Visualization](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/Tesla_ARIMAX_GT.png)
+![Performance of the Pairs Trading Strategy Goldman Sachs and Morgan Stanly](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/results/sample/GS_MS_Pair_trading.png)
+- **Performance of the Pairs Trading Strategy Apple and Microsoft**
+![Performance of the Pairs Trading Strategy Apple and Microsoft](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/results/sample/aapl_msft_Pair_trading.png)
+- **cointegration test results for stock pairs**
+![cointegration_test_results_SP](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/cointegration_test_results_SP.png)
+- **Performance of the Pairs Trading Strategy SPY and VOO**
+![Performance of the Pairs Trading Strategy SPY and VOO](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/perf_PT_spy_voo.png)
 
 ---
 
