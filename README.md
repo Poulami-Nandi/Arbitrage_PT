@@ -74,8 +74,8 @@ The strategy is fully automated and consists of:
 ## **💻 Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pairs-trading-strategy.git
-cd pairs-trading-strategy
+git clone https://github.com/Poulami-Nandi/Arbitrage_PT.git
+cd Arbitrage_PT
 
 # Install dependencies
 pip install -r requirements.txt
@@ -111,6 +111,18 @@ strategy.generate_trading_signals()
 strategy.backtest_strategy()
 strategy.evaluate_performance()
 ```
+
+---
+
+## **Visualization/Example output**
+- **Performance of the Pairs Trading Strategy Goldman Sachs and Morgan Stanly**
+![Stock Trends Visualization](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/Tesla_ARIMAX_GT.png)
+- **Performance of the Pairs Trading Strategy Goldman Sachs and Morgan Stanly**
+![Stock Trends Visualization](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/Tesla_ARIMAX_GT.png)
+- **Performance of the Pairs Trading Strategy Goldman Sachs and Morgan Stanly**
+![Stock Trends Visualization](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/Tesla_ARIMAX_GT.png)
+- **Performance of the Pairs Trading Strategy Goldman Sachs and Morgan Stanly**
+![Stock Trends Visualization](https://github.com/Poulami-Nandi/Arbitrage_PT/blob/main/images/sample/Tesla_ARIMAX_GT.png)
 
 ---
 
